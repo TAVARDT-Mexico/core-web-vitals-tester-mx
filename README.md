@@ -1,14 +1,13 @@
 # Medidor de Core Web Vitals y Rendimiento Web
 
 [![Medidor Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/mx/medidor-core-web-vitals/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Evaluacion de latencia TTFB, bloqueo de renderizado y estabilidad de diseno en infraestructuras de Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de velocidad y rendimiento de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de ingenieria de velocidad y rendimiento de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Auditoria de Core Web Vitals
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ingenieria de velocidad y rendimient
 * **Auditoria de Compresion**: Verificacion de codificacion Brotli o Gzip en transferencias HTTP.
 * **Puntuacion de Rendimiento W3C**: Calificacion de 0 a 100 con recomendaciones tecnicas priorizadas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python cwv_tester.py https://empresa.com.mx
 Para salida en formato JSON:
 
 ```bash
-python cwv_tester.py https://empresa.com.mx --json
+python cwv_tester.py https://empresa.com.mx -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para auditorias avanzadas de velocidad y respuesta:
 
-* **[Medidor de Core Web Vitals Oficial](https://tools.tavardt.com/mx/medidor-core-web-vitals/)**
+* **Medidor de Core Web Vitals Oficial**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Consultoria en Optimizacion y Rendimiento Web
 
-Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Mejores Practicas de Velocidad Web, contacte a **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Mejores Practicas de Velocidad Web, contacte a **TAVARDT Mexico**.
