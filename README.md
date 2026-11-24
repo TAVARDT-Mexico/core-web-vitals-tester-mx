@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ingenieria de velocidad y rendimient
 Requiere Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/core-web-vitals-tester-mx.git
+git clone https://github.com/TAVARDT/core-web-vitals-tester-mx.git
 cd core-web-vitals-tester-mx
 python cwv_tester.py https://empresa.com.mx
 ```
