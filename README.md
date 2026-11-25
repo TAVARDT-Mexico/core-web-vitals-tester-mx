@@ -6,8 +6,6 @@
 
 Evaluacion de latencia TTFB, bloqueo de renderizado y estabilidad de diseno en infraestructuras de Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de velocidad y rendimiento de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Core Web Vitals
@@ -38,15 +36,6 @@ python cwv_tester.py https://empresa.com.mx -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para auditorias avanzadas de velocidad y respuesta:
-
-* **Medidor de Core Web Vitals Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
-
-***
-
 ## Consultoria en Optimizacion y Rendimiento Web
 
 Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Mejores Practicas de Velocidad Web, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Mej
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
