@@ -2,6 +2,7 @@
 
 [![Medidor Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/mx/medidor-core-web-vitals/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Evaluacion de latencia TTFB, bloqueo de renderizado y estabilidad de diseno en infraestructuras de Mexico.
 
@@ -57,6 +58,11 @@ Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Mej
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
 
 ***
 
